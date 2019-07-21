@@ -3,17 +3,17 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  $('div:last')
+  $('img:last');
 }
 
 function ninjaBabySelector(){
-  $('#baby-ninja')
+  $('#baby-ninja');
 }
 
 function divSelector(){
-  $('.pics')
+  $('.pics');
 }
 
 function firstListItem(){
-  $('ul pic-last:first-child')
+  $('ul pic-last:first-child');
 }
